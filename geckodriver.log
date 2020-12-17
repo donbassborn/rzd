@@ -1,0 +1,1483 @@
+1588196560081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileELdFhs"
+1588196560845	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588196562008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588196562008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588196562008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588196562008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588196563990	Marionette	INFO	Listening on port 49661
+1588196564421	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: https://vk.com/, line 400: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1588196862467	Marionette	INFO	Stopped listening on port 49661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588196674454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588196674454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588196674454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588196674454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588196676208	Marionette	INFO	Listening on port 49742
+1588196676323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?m=1&email=%2B79091590962, line 338: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1588196863381	Marionette	INFO	Stopped listening on port 49742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588196835571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588196835571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588196835572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588196835572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588196837330	Marionette	INFO	Listening on port 49841
+1588196837647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588196851836	Marionette	INFO	Stopped listening on port 49841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588196887910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofile7UKWfz"
+1588196889161	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588196890221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588196890221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588196890221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588196890221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588196891841	Marionette	INFO	Listening on port 49916
+1588196893004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?m=1&email=79031376402, line 338: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1588196946350	Marionette	INFO	Stopped listening on port 49916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588196970225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileueMwav"
+1588196970681	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588196971677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588196971677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588196971677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588196971677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588196973311	Marionette	INFO	Listening on port 50092
+1588196973461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?m=1&email=79091590962, line 338: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+JavaScript error: https://vk.com/login?m=1&email=79091590962, line 338: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1588196990287	Marionette	INFO	Stopped listening on port 50092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197040101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilesXBP45"
+1588197040560	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197041587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197041587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197041587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197041587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197043196	Marionette	INFO	Listening on port 50167
+1588197043333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?m=1&email=79031376402, line 338: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1588197082576	Marionette	INFO	Stopped listening on port 50167
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197109970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilejb55vS"
+1588197110409	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197111456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197111456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197111456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197111456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197112968	Marionette	INFO	Listening on port 50334
+1588197113212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+1588197115165	Marionette	INFO	Stopped listening on port 50334
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB80016,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197131658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileS8pQ14"
+1588197132107	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197133066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197133066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197133066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197133067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197134689	Marionette	INFO	Listening on port 50374
+1588197134897	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588197170994	Marionette	INFO	Stopped listening on port 50374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197226350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileCTg3NV"
+1588197226807	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197227805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197227805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197227805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197227805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197229426	Marionette	INFO	Listening on port 50446
+1588197229585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588197242069	Marionette	INFO	Stopped listening on port 50446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197369218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofile0UyKc4"
+1588197369707	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197370640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197370640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197370640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197370640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197372258	Marionette	INFO	Listening on port 50580
+1588197372455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588197548435	Marionette	INFO	Stopped listening on port 50580
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197460024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197460024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197460024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197460024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197461590	Marionette	INFO	Listening on port 50657
+1588197461734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588197547256	Marionette	INFO	Stopped listening on port 50657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197516773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197516773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197516774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197516774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197518296	Marionette	INFO	Listening on port 50772
+1588197518620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588197546916	Marionette	INFO	Stopped listening on port 50772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588197558639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileMhLQqx"
+1588197559803	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588197560878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588197560878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588197560879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588197560879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588197562500	Marionette	INFO	Listening on port 50843
+1588197563590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588197802076	Marionette	INFO	Stopped listening on port 50843
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588198354175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilefaKJGT"
+1588198355283	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588198356210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588198356211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588198356211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588198356211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588198357823	Marionette	INFO	Listening on port 65006
+1588198358031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588198388857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilejhZRi7"
+1588198390390	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588198391280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588198391280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588198391280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588198391280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588198392802	Marionette	INFO	Listening on port 65165
+1588198393218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588198517972	Marionette	INFO	Stopped listening on port 65165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588198529443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileb7lAHz"
+1588198530932	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588198531940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588198531940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588198531940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588198531940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588198533545	Marionette	INFO	Listening on port 65351
+1588198533793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588198575415	Marionette	INFO	Stopped listening on port 65351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588198686825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileHbXAea"
+1588198688140	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588198689045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588198689046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588198689046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588198689046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588198690671	Marionette	INFO	Listening on port 49202
+1588198693245	Marionette	INFO	Stopped listening on port 49202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588198869409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofile2HxAmd"
+1588198869869	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588198870825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588198870825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588198870825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588198870825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588198872360	Marionette	INFO	Listening on port 49368
+1588198872650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+JavaScript warning: https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2, line 2: Script terminated by timeout at:
+fix@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:45001
+n@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:49815
+EventListener.handleEvent*setup@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:49912
+add@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:41311
+a.event.add@https://www.guru99.com/media/plg_jchoptimize/cache/js/3c58558989564561885973eeb0ff8444_0.js:2:7068
+xe/<@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:40558
+each@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:3053
+each@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:996
+xe@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:40534
+on@https://www.guru99.com/media/jui/js/jquery.min.js?5488b7157d1881abf266d97c2f1147c2:2:50141
+@https://www.guru99.com/media/plg_jchoptimize/cache/js/3c58558989564561885973eeb0ff8444_0.js:5:27395
+@https://www.guru99.com/media/plg_jchoptimize/cache/js/3c58558989564561885973eeb0ff8444_0.js:5:27525
+
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.error: "failed autocomplete" (new Error("Connection closed, pending request to server0.conn0.child2/consoleActor2, type autocomplete failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nautocompleteDataFetch/<@resource://devtools/client/webconsole/actions/autocomplete.js:147:8\nthunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nautocompleteUpdate/<@resource://devtools/client/webconsole/actions/autocomplete.js:80:12\nasync*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9\nignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12\nautocompleteUpdate@resource://devtools/client/webconsole/components/Input/JSTerm.js:1425:15\nexports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12\nnotify@resource://gre/modules/Timer.jsm:62:17\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+console.warn: "IGNORED REDUX ACTION:" async ({ dispatch, webConsoleUI }) => {
+    if (response.error) {
+      console.error(`Evaluation error`, response.error, ": ", response.message);
+      return;
+    }
+
+    // If the evaluation was a top-level await expression that was rejected, there will
+    // be an uncaught exception reported, so we don't need to do anything.
+    if (response.topLevelAwaitRejected === true) {
+      return;
+    }
+
+    if (!response.helperResult) {
+      dispatch(messagesActions.messagesAdd([response]));
+      return;
+    }
+
+    await dispatch(handleHelperResult(response));
+  }
+console.warn: "IGNORED REDUX ACTION:" async ({ dispatch, webConsoleUI }) => {
+    if (response.error) {
+      console.error(`Evaluation error`, response.error, ": ", response.message);
+      return;
+    }
+
+    // If the evaluation was a top-level await expression that was rejected, there will
+    // be an uncaught exception reported, so we don't need to do anything.
+    if (response.topLevelAwaitRejected === true) {
+      return;
+    }
+
+    if (!response.helperResult) {
+      dispatch(messagesActions.messagesAdd([response]));
+      return;
+    }
+
+    await dispatch(handleHelperResult(response));
+  }
+JavaScript error: chrome://browser/content/browser.js, line 7972: TypeError: browser.messageManager is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/consoleActor2, type evaluateJSAsync failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+evaluateJSAsync@resource://devtools/client/fronts/webconsole.js:206:42
+evaluateJSAsync@resource://devtools/client/webconsole/commands.js:40:18
+async*terminalInputChanged/<@resource://devtools/client/webconsole/actions/input.js:252:35
+async*thunkWithOptions/</<@resource://devtools/client/shared/redux/middleware/thunk-with-options.js:16:9
+ignore/</<@resource://devtools/client/shared/redux/middleware/ignore.js:28:12
+terminalInputChanged@resource://devtools/client/webconsole/components/Input/JSTerm.js:1432:15
+exports.debounce/debouncedFunction/timer<@resource://devtools/shared/debounce.js:38:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2231: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1588199219507	Marionette	INFO	Stopped listening on port 49368
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588199574218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilet8HJd9"
+1588199575778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588199576733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588199576733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588199576733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588199576733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588199578318	Marionette	INFO	Listening on port 50003
+1588199578563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+[Parent 5368, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1588199619271	Marionette	INFO	Stopped listening on port 50003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588199644208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilePoYES5"
+1588199645490	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588199646505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588199646505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588199646505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588199646505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588199648075	Marionette	INFO	Listening on port 50184
+1588199649198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588199731805	Marionette	INFO	Stopped listening on port 50184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: 1588199731991	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588199732907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588199732907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588199732908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588199732908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588199734541	Marionette	INFO	Listening on port 50345
+1588199734558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1588199940977	Marionette	INFO	Stopped listening on port 50345
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileTwDGaB"
+1588199941794	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588199942637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588199942637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588199942637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588199942637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588199944178	Marionette	INFO	Listening on port 50547
+1588199944626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588199989969	Marionette	INFO	Stopped listening on port 50547
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588199997622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileQq2VIL"
+1588199998085	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588199999172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588199999172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588199999172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588199999172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200000796	Marionette	INFO	Listening on port 50773
+1588200000867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588200014634	Marionette	INFO	Stopped listening on port 50773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588200020163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilelXeCdF"
+1588200020605	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588200021579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588200021579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588200021579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588200021579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200023076	Marionette	INFO	Listening on port 50865
+1588200023395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588200036013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+async*interaction.clickElement@chrome://marionette/content/interaction.js:131:11
+clickElement/<@chrome://marionette/content/listener.js:1344:28
+navigate/<@chrome://marionette/content/listener.js:446:13
+navigate@chrome://marionette/content/listener.js:447:7
+clickElement@chrome://marionette/content/listener.js:1342:18
+@https://vk.com/feed:1696:9
+@https://vk.com/feed:1698:3
+[Parent 3076, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1588200055107	Marionette	INFO	Stopped listening on port 50865
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588200102313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofile2U87OT"
+1588200102941	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588200103908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588200103909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588200103909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588200103909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200105407	Marionette	INFO	Listening on port 51102
+1588200105552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+JavaScript error: https://static.h-bid.com/prebid/latest/prebid.js, line 25: TypeError: n is undefined
+1588200644461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofile9W6wvl"
+1588200646150	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588200646982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588200646982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588200646982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588200646982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200648641	Marionette	INFO	Listening on port 51571
+1588200648826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588200695662	Marionette	INFO	Stopped listening on port 51571
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588200818882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilehhhtnb"
+1588200819377	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588200820393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588200820393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588200820393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588200820393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200821916	Marionette	INFO	Listening on port 51786
+1588200822127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588200869860	Marionette	INFO	Stopped listening on port 51786
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588200923886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileGbXIhf"
+1588200924338	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588200925290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588200925290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588200925290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588200925290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588200926812	Marionette	INFO	Listening on port 51973
+1588200927127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588200973697	Marionette	INFO	Stopped listening on port 51973
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588201004703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileVsbYE2"
+1588201005358	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588201006555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588201006555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588201006556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588201006556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588201008172	Marionette	INFO	Listening on port 52216
+1588201008552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/, line 400: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+[Parent 2240, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1588201028467	Marionette	INFO	Stopped listening on port 52216
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588201036766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofilepgcuNN"
+1588201037594	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588201038590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588201038590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588201038590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588201038590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588201040200	Marionette	INFO	Listening on port 52286
+1588201041298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588201088561	Marionette	INFO	Stopped listening on port 52286
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588201131732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\teremok\\AppData\\Local\\Temp\\rust_mozprofileOaXyE5"
+1588201132177	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588201133221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588201133221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588201133221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588201133222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588201135032	Marionette	INFO	Listening on port 52482
+1588201135083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vk.com/login?act=authcheck, line 530: ReferenceError: IdleManager is not defined
+1588201183300	Marionette	INFO	Stopped listening on port 52482
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
